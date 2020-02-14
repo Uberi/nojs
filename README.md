@@ -1,4 +1,4 @@
 no.js
 =====
 
-There's no JS.
+There's ~no~ some JS.
